@@ -1,0 +1,3 @@
+[submodule "AwesomeProject"]
+	path = AwesomeProject
+	url = https://github.com/priyarazorbee/reactnative.git
